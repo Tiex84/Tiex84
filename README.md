@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Lorenzo 👋
+
+## 🚀 About me
+
+I'm Lorenzo, a **self-taught** Frontend developer from Italy.
 
 ## 👨🏻‍💻 Programming Languages
 <p align="left">
