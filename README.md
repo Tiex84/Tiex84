@@ -22,6 +22,7 @@ I'm Lorenzo, a **self-taught** Frontend developer from Italy.
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 <!--
 **Tiex84/Tiex84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
